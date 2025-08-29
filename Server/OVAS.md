@@ -44,4 +44,4 @@ OVAS는 NVIDIA OVX 서버와 긴밀히 통합되어 동작하며, OVX 서버의 
 - OVAS는 NVIDIA Omniverse Enterprise 및 NVIDIA AI Enterprise와 함께 사용되며, 산업 디지털화, 메타버스 애플리케이션, AI 기반 워크플로우를 가속화합니다.
 - 자세한 기술 문서 및 배포 가이드는 NVIDIA 공식 웹사이트(www.nvidia.com) 또는 Omniverse 개발자 포럼(developer.nvidia.com)에서 확인할 수 있습니다.[](https://developer.nvidia.com/omniverse)
 
-NVIDIA OVAS는 고성능 3D 스트리밍과 협업을 가능하게 하는 강력한 솔루션으로, 특히 디지털 트윈, AI, 메타버스 관련 프로젝트에서 핵심적인 역할을 합니다. 추가로 궁금한 점이 있다면 말씀해주세요!
+NVIDIA OVAS는 고성능 3D 스트리밍과 협업을 가능하게 하는 강력한 솔루션으로, 특히 디지털 트윈, AI, 메타버스 관련 프로젝트에서 핵심적인 역할을 합니다. 
